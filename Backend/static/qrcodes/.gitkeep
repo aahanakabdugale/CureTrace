@@ -1,0 +1,3 @@
+# This directory stores generated QR code PNG files.
+# Each patient gets a file named <patient_uuid>.png
+# Served via FastAPI at /static/qrcodes/<patient_uuid>.png
